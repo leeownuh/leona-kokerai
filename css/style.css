@@ -631,7 +631,7 @@ header.de_header_2.smaller .info {
 	cursor: pointer;
 }
 #menu-btn:before {
-	font-family: FontAwesome;
+	font-family: 'FontAwesome';
 	content: "\f0c9";
 	font-size: 24px;
 }
